@@ -1,0 +1,9 @@
+test_loan (__main__.Checks.test_loan) ... ok
+test_search (__main__.Checks.test_search) ... ok
+test_sorting (__main__.Checks.test_sorting) ... ok
+test_stability (__main__.Checks.test_stability) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.017s
+
+OK
